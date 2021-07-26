@@ -1,4 +1,4 @@
-# Calculator-Vue
+# Calculator Vue
 Projeto feito com orientação de professor.
 
 # caculator
